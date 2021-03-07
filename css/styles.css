@@ -4,7 +4,6 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Rufina', serif;
 */
 
-
 h1,
 h2,
 h3,
@@ -46,5 +45,4 @@ img {
   height: 1px !important;
   width: 1px !important;
   overflow: hidden;
-
-  
+}
