@@ -79,8 +79,14 @@ img {
 }
 /* HERO */
 .hero {
-  margin-left: 389px;
-  width: 539px;
+  /*background-color: */
+}
+.arrow {
+  fill: #ffffff;
+}
+
+.icon {
+  fill: var(--accent-color);
 }
 .suptitle {
   font-size: 15px;
